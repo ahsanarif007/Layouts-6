@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.full{
+    height: 765px;
+    text-align: center;
+}
+.title{
+    height: 15%;
+    background-color: cadetblue;
+    display: flex;
+}
+.one{
+    width: 20%;
+    background-color: darkcyan;
+}
+.top_one{
+    height: 50%;
+    background-color: blueviolet;
+}
+.bottom_one{
+    height: 50%;
+    background-color: rgb(168, 146, 189);
+    display: flex;
+}
+.bottomone_left{
+    width: 50%;
+    background-color: black;
+    color: azure;
+}
+.bottomone_right{
+    width: 50%;
+    background-color: rgb(121, 80, 80);
+}
+.two{
+    width: 60%;
+    background-color: rgb(134, 146, 146);
+}
+.three{
+    width: 20%;
+    background-color: darkcyan;
+}
+.three_top{
+    height: 50%;
+    background-color: antiquewhite;
+}
+.three_bottom{
+    height: 50%;
+    background-color: rgb(114, 103, 89);
+}
+.body{
+    height: 80%;
+    background-color: rgb(195, 217, 218);
+    display: flex;
+}
+.left{
+    width: 20%;
+    background-color: azure;
+    height: 100%;
+}
+.loft_one{
+    height: 35%;
+    background-color: rgb(35, 165, 216);
+}
+.loft_two{
+    height: 20%;
+    background-color: rgb(196, 105, 32);
+}
+.loft_three{
+    height: 20%;
+    background-color: rgb(113, 172, 219);
+}
+.loft_four{
+    height: 25%;
+    background-color: rgb(214, 224, 75);
+}
+.roght{
+    width: 80%;
+    background-color: rgb(1, 97, 97);
+    height: 100%;
+}
+.roght_top{
+    height: 13%;
+    background-color: aliceblue;
+    color: black;
+    font-size: larger;
+}
+.roght_mid{
+    height: 7%;
+    background-color: rgb(61, 99, 133);
+    display: flex;
+}
+.roght_midone{
+    width: 25%;
+    background-color: blueviolet;
+}
+.roght_midtwo{
+    width: 50%;
+    background-color: rgb(44, 34, 53);
+    color: aliceblue;
+}
+.roght_midthree{
+    width: 25%;
+    background-color: rgb(203, 197, 209);
+}
+.roght_body{
+    height: 80%;
+    background-color: rgb(57, 184, 177);
+    display: flex;
+}
+.roght_bodyleft{
+    width: 70%;
+    background-color: bisque;
+}
+.roght_bodylefttop{
+    height: 45%;
+    background-color: brown;
+}
+.roght_bodyleftmid{
+    height: 25%;
+    background-color: rgb(194, 143, 143);
+}
+.roght_bodyleftbottom{
+    height: 30%;
+    background-color: rgb(143, 180, 194);
+    display: flex;
+}
+.roght_bodyleftbottomleft{
+    width: 50%;
+    background-color: rgb(49, 77, 129)
+}
+.roght_bodyleftbottomright{
+    width: 50%;
+    background-color: rgb(61, 61, 18)
+}
+.roght_bodyright{
+    width: 30%;
+    background-color: rgb(190, 128, 52);
+
+}
+.roght_bodyrighttop{
+    height: 75%;
+    background-color: coral;
+}
+.roght_bodyrightbottom{
+    height: 25%;
+    background-color: rgb(206, 160, 143);
+}
+.footer{
+    height: 5%;
+    background-color: rgb(3, 1, 1);
+    color: aliceblue;
+    
+}
